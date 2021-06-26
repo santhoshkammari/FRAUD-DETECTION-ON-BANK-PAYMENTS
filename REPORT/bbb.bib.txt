@@ -1,0 +1,28 @@
+@INPROCEEDINGS{r1,
+  author={Delecourt, Simon and Guo, Li},
+  booktitle={2019 IEEE Second International Conference on Artificial Intelligence and Knowledge Engineering (AIKE)}, 
+  title={Building a Robust Mobile Payment Fraud Detection System with Adversarial Examples}, 
+  publisher={IEEE},
+  year={2019},
+  pages={103-106},
+  doi={10.1109/AIKE.2019.00026}}
+@INPROCEEDINGS{r3,  author={Jain, Vinod and Agrawal, Mayank and Kumar, Anuj},  booktitle={2020 8th International Conference on Reliability, Infocom Technologies and Optimization (Trends and Future Directions) (ICRITO)},   title={Performance Analysis of Machine Learning Algorithms in Credit Cards Fraud Detection},   year={2020},  
+publisher={IEEE},volume={},  number={},  pages={86-88},  doi={10.1109/ICRITO48877.2020.9197762}}
+@INPROCEEDINGS{r6,  author={Thennakoon, Anuruddha and Bhagyani, Chee and Premadasa, Sasitha and Mihiranga, Shalitha and Kuruwitaarachchi, Nuwan},  booktitle={2019 9th International Conference on Cloud Computing, Data Science   Engineering (Confluence)},   title={Real-time Credit Card Fraud Detection Using Machine Learning},   year={2019},  volume={},  
+publisher={IEEE},number={},  pages={488-493},  doi={10.1109/CONFLUENCE.2019.8776942}}
+@INPROCEEDINGS{r2,  author={Alquthami, Thamer and Alsubaie, Abdullah M. and Anwer, Murad},  booktitle={2019 International Conference on Electrical and Computing Technologies and Applications (ICECTA)},   title={Importance of Smart Meters Data Processing – Case of Saudi Arabia},   year={2019},  volume={},  number={},  pages={1-5},  
+publisher={IEEE},doi={10.1109/ICECTA48151.2019.8959739}}
+
+@INPROCEEDINGS{r5,  
+author={Adepoju, Olawale and Wosowei, Julius and lawte, Shiwani and Jaiman, Hemaint}, 
+booktitle={2019 Global Conference for Advancement in Technology (GCAT)},   
+title={Comparative Evaluation of Credit Card Fraud Detection Using Machine Learning Techniques},   year={2019}, 
+publisher={IEEE},
+
+volume={}, 
+number={},  
+pages={1-6}, 
+doi={10.1109/GCAT47503.2019.8978372}}
+
+@INPROCEEDINGS{r4,  author={Khatri, Samidha and Arora, Aishwarya and Agrawal, Arun Prakash},  booktitle={2020 10th International Conference on Cloud Computing, Data Science   Engineering (Confluence)},   title={Supervised Machine Learning Algorithms for Credit Card Fraud Detection: A Comparison},   
+publisher={IEEE},year={2020},  volume={},  number={},  pages={680-683},  doi={10.1109/Confluence47617.2020.9057851}}

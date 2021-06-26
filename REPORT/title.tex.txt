@@ -1,0 +1,37 @@
+\title{}
+\author{}
+\thispagestyle{empty}
+\begin{document}
+\begin{titlepage}
+\begin{center}
+{\LARGE  FRAUD DETECTION ON BANK PAYMENTS} \\
+\end{center}
+\begin{center}
+%\vspace{0.2in}
+%{\large Dissertation} \\
+\vspace{0.6in}
+{\large \it A project report submitted in partial fulfillment of the requirements for Mini Project} \\
+\vspace{0.6in}
+
+{\large \it by\\}
+\vspace{0.3in}
+{\large \bf Kammari Santhosh(2018IMT-043)}\\
+%{\normalsize }\\
+\vspace{0.3in}
+{\large \it Under the Supervision of\\}
+\vspace{0.3in}
+{\large \bf Dr. Pinku Ranjan}\\
+\end {center}
+\vspace{0.4in}
+\begin{figure}[h]
+\centerline{\includegraphics[width=1.2in]{ABVIIITM_logo.jpg}}
+\end{figure}
+%\vspace{0.1in}
+\begin{center}
+{\Large \bf ABV INDIAN INSTITUTE OF INFORMATION TECHNOLOGY AND MANAGEMENT\\
+GWALIOR-474 015\\}
+
+{\Large \bf 2020\\}
+\end{center}
+\end{titlepage}
+\end{document}
