@@ -1,11 +1,8 @@
 # FRAUD-DETECTION-ON-BANK-PAYMENTS
-machine learning model for fraud detection in bank payments
-with morethan 96% accuracy we can classify data between fraud and non-fraud
 
 **INTRODUCTION:**
-Fraud detection in financial transactions has become an essential priority for banks.
-For this purpose, 
-Two rule methods:
+Fraudulent behavior can be seen across many different fields such as e-commerce, healthcare, payment and banking systems. Fraud is a billion-dollar business and it is increasing every year. Fraud detection in financial transactions has become an essential priority for banks.
+For this purpose, Two rule methods:
 1.deny transactions from known fraudsters
 2.limiting transactions
 
