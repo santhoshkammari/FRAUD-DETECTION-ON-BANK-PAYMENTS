@@ -1,8 +1,8 @@
 # FRAUD-DETECTION-ON-BANK-PAYMENTS
 
 **INTRODUCTION:**
-Fraudulent behavior can be seen across many different fields such as e-commerce, healthcare, payment and banking systems. Fraud is a billion-dollar business and it is increasing every year. Fraud detection in financial transactions has become an essential priority for banks.
-For this purpose, Two rule methods:
+Fraudulent behavior can be seen across many different fields such as e-commerce, healthcare, payment and banking systems. Fraud is a billion-dollar business and it is increasing every year. Fraud detection in financial transactions has become an essential priority for banks.Even if fraud seems to be scary for businesses it can be detected using intelligent systems such as rules engines or machine learning
+ common Two rule methods:
 1.deny transactions from known fraudsters
 2.limiting transactions
 
