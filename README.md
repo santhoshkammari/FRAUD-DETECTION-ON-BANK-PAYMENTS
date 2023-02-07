@@ -18,6 +18,9 @@ transaction as suspicious and wrongfully cancels it.
 They enable analysts to remember new suspicious ways(pattern) and create
 new rules to prevent new types of scams.
 
+**DATASET:**
+synthetically generated dataset consists of payments from various customers made in different time periods and with different amounts.3lakh good,20k fraud.
+
 **Comparing Accuracies of the four Models**
 - Logistic Regression 91.38
 - K-Nearest Neighbor 92.66
