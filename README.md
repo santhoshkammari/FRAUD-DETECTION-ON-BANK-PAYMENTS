@@ -4,11 +4,10 @@ with morethan 96% accuracy we can classify data between fraud and non-fraud
 
 **INTRODUCTION:**
 Fraud detection in financial transactions has become an essential priority for banks.
-For this purpose, publications about existing approaches were analyzed to explore
-their utilization in instant payments.
-Two methods used are:
-- analysis based on literature perspective
-- feasibility study of fraud detection.
+For this purpose, 
+Two rule methods:
+1.deny transactions from known fraudsters
+2.limiting transactions
 
 **OBJECTIVES:**
 - Higher accuracy of fraud detection. As opposed to rule-based solutions,
