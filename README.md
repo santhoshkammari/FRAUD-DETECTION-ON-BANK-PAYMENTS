@@ -6,17 +6,7 @@ Fraudulent behavior can be seen across many different fields such as e-commerce,
 1.deny transactions from known fraudsters
 2.limiting transactions
 
-**DATASET:**
-synthetically generated dataset consists of payments from various customers made in different time periods and with different amounts.3lakh good,20k fraud.
-**DATA ANALYSIS:**
-Average fraud percentage is high for Travel category ,less than 18 age,
-Fraud transactions are less in count but more in amount.
 
-**DATA PREPROCESSING:**
-Dropping Zipcodes,categorical features to numerical values.
-
-**SMOTE**
-(Synthetic Minority Over-sampling Technique). SMOTE will create new data points from minority class using the neighbour instances so generated samples are not exact copies but they are similar
 
 **OBJECTIVES:**
 - Higher accuracy of fraud detection. As opposed to rule-based solutions,
@@ -31,6 +21,19 @@ They enable analysts to remember new suspicious ways(pattern) and create
 new rules to prevent new types of scams.
 
 
+**DATASET:**
+synthetically generated dataset consists of payments from various customers made in different time periods and with different amounts.3lakh good,20k fraud.
+
+
+**DATA ANALYSIS:**
+Average fraud percentage is high for Travel category ,less than 18 age,
+Fraud transactions are less in count but more in amount.
+
+**DATA PREPROCESSING:**
+Dropping Zipcodes,categorical features to numerical values.
+
+**SMOTE**
+(Synthetic Minority Over-sampling Technique). SMOTE will create new data points from minority class using the neighbour instances so generated samples are not exact copies but they are similar
 
 **Comparing Accuracies of the four Models**
 - Logistic Regression 91.38
