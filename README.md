@@ -6,6 +6,10 @@ Fraudulent behavior can be seen across many different fields such as e-commerce,
 1.deny transactions from known fraudsters
 2.limiting transactions
 
+**DATA ANALYSIS:**
+Average fraud percentage is high for Travel category ,less than 18 age
+Fraud transactions are less in count but more in amount.
+
 **OBJECTIVES:**
 - Higher accuracy of fraud detection. As opposed to rule-based solutions,
 machine learning mechanisms have higher precision and return relevant results
